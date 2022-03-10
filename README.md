@@ -5,3 +5,4 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-tutoria
 https://www.youtube.com/watch?v=4Mf81GdEDU8 multiplayer game server unity
 https://www.youtube.com/watch?v=cXxEiWudIUY gioco multiplayer web socket browser
 https://www.youtube.com/watch?v=5LhA4Tk_uvI&list=PLS6sInD7ThM1aUDj8lZrF4b4lpvejB2uB serie tutorial unity multiplayer
+https://www.youtube.com/watch?v=E6A4WvsDeLE&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT codemonkey basic unity
